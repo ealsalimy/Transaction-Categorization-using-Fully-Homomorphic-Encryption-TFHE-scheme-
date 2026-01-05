@@ -1,0 +1,180 @@
+[
+  {
+    "category": "charity",
+    "patterns": [
+      "donation",
+      "nonprofit",
+      "contribution",
+      "charity",
+      "society"
+    ]
+  },
+  {
+    "category": "income",
+    "patterns": [
+      "paycheck",
+      "salary"
+    ]
+  },
+  {
+    "category": "rent",
+    "patterns": [
+      "rent",
+      "apartment",
+      "housing"
+    ]
+  },
+  {
+    "category": "fuel",
+    "patterns": [
+      "gas station",
+      "aramco",
+      "sasco",
+      "aldrees",
+      "petrol",
+      "diesel",
+      "liter"
+    ]
+  },
+  {
+    "category": "shopping",
+    "patterns": [
+      "amazon",
+      "ebay",
+      "mall",
+      "market",
+      "retail",
+      "outlet",
+      "boutique",
+      "othaim",
+      "panda",
+      "plaza"
+    ]
+  },
+  {
+    "category": "cash withdrawal",
+    "patterns": [
+      "atm withdrawal",
+      "cash withdrawal",
+      "bank withdrawal",
+      "cash dispense",
+      "withdraw cash"
+    ]
+  },
+  {
+    "category": "food",
+    "patterns": [
+      "cafe",
+      "resturant",
+      "dinning",
+      "food",
+      "meal",
+      "supermarket",
+      "eatery",
+      "delivery",
+      "groceries"
+    ]
+  },
+  {
+    "category": "travel",
+    "patterns": [
+      "booking",
+      "reservation",
+      "flight",
+      "travel"
+    ]
+  },
+  {
+    "category": "telephone",
+    "patterns": [
+      "phone bill",
+      "mobile payment",
+      "telecom",
+      "telecommunication",
+      "mobile plan",
+      "mobily",
+      "stc",
+      "virgin",
+      "zain"
+    ]
+  },
+  {
+    "category": "grocery",
+    "patterns": [
+      "walmart",
+      "whole foods",
+      "grocery",
+      "alwatania"
+    ]
+  },
+  {
+    "category": "healthcare",
+    "patterns": [
+      "nahdi",
+      "hospital",
+      "clinic",
+      "doctor",
+      "health",
+      "dental"
+    ]
+  },
+  {
+    "category": "insurance",
+    "patterns": [
+      "insurance",
+      "health insurance"
+    ]
+  },
+  {
+    "category": "entertainment",
+    "patterns": [
+      "cinema",
+      "theater",
+      "concert",
+      "netflix",
+      "spotify",
+      "ticket",
+      "stctv"
+    ]
+  },
+  {
+    "category": "savings",
+    "patterns": [
+      "savings account",
+      "bank transfer to savings",
+      "save",
+      "deposit"
+    ]
+  },
+  {
+    "category": "subscriptions",
+    "patterns": [
+      "monthly fee",
+      "service fee",
+      "membership",
+      "subscription"
+    ]
+  },
+  {
+    "category": "transportation",
+    "patterns": [
+      "uber",
+      "careem",
+      "ride"
+    ]
+  },
+  {
+    "category": "personal care",
+    "patterns": [
+      "spa",
+      "salon",
+      "barber",
+      "beauty",
+      "wellness",
+      "fitness",
+      "gym",
+      "therapy",
+      "care"
+    ]
+  }
+]
